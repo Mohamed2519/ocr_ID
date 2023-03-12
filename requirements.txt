@@ -1,0 +1,9 @@
+pytesseract
+numpy
+opencv
+imutils
+pil 
+os
+flask
+requests
+
