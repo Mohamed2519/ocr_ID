@@ -7,4 +7,4 @@
 pip3 install -r requirements.txt
 ```
 
-copy all models from model folder into `tesseract-ocr/tessdata`
+copy all models from `model` folder into `tesseract-ocr/tessdata`
